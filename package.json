@@ -10,11 +10,13 @@
 		"lint": "eslint . --fix"
 	},
 	"dependencies": {
+		"@expo/vector-icons": "^14.0.4",
 		"@hookform/resolvers": "^3.9.1",
 		"@react-native-async-storage/async-storage": "1.23.1",
 		"@supabase/supabase-js": "^2.46.1",
 		"class-variance-authority": "^0.7.0",
 		"clsx": "^2.1.1",
+		"date-fns": "^4.1.0",
 		"expo": "~52.0.3",
 		"expo-constants": "~17.0.2",
 		"expo-image": "~2.0.0",
@@ -24,6 +26,7 @@
 		"expo-status-bar": "~2.0.0",
 		"expo-system-ui": "~4.0.2",
 		"nativewind": "^4.1.23",
+		"openai": "^4.28.0",
 		"react": "18.3.1",
 		"react-dom": "18.3.1",
 		"react-hook-form": "^7.53.2",
